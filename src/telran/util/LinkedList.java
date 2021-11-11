@@ -5,6 +5,8 @@ import java.util.Comparator;
 import java.util.Iterator;
 import java.util.function.Predicate;
 
+import telran.util.AbstractList;
+
 public class LinkedList<T> extends AbstractList<T> {
 	
 
